@@ -17,7 +17,7 @@ NnsProposal:
         Proposal to create an SNS for the project Dsonance.
         The SNS will be initialized with the following parameters:
         - Total DSN supply: 1_000_000_000
-        - 160_000_000 Public Sale, 120_000_000 Dev Neuron, 720_000_000 treasury
+        - 180_000_000 Public Sale, 120_000_000 Dev Neuron, 700_000_000 treasury
         - ICP to raise min: 10_000 ICP
         - ICP to raise max: 100_000 ICP
         - Min number of tokens per contributor: 1 ICP
