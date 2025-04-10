@@ -111,8 +111,8 @@ Distribution:
           vesting_period: 16 months
 
     InitialBalances:
-        swap: 160_000_000 tokens
-        treasury: 720_000_000 tokens
+        swap: 180_000_000 tokens
+        treasury: 700_000_000 tokens
 
     total: 1_000_000_000 tokens
 
